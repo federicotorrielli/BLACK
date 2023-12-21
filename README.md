@@ -7,8 +7,7 @@ Through concrete examples, we demonstrate the impact of the prompting model in i
 
 ## Data
 
-The data provided is organized in multiple formats to cater to different preferences and use cases. The first format is Google Spreadsheets, which allows for easy online collaboration and data manipulation. This can be accessed via the provided link. The second format is a CSV file, which is a popular choice for data storage and can be easily imported into various data analysis tools. This can be downloaded from the CSV link. Lastly, the data is also available in an HTML format, which can be viewed through web browsers or parsed by web scraping tools. This can be obtained by downloading the HTML zip file.
+The data provided is organized in multiple formats to cater to different preferences and use cases. The first format is a CSV file, which is a popular choice for data storage and can be easily imported into various data analysis tools. This can be downloaded from the CSV link. Secondly, the data is also available in an HTML format, which can be viewed through web browsers or parsed by web scraping tools. This can be obtained by downloading the HTML zip file.
 
-- [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1xer8JvcsVYEVsRMhksJD--JaAXzZuJ6QJjyT3b5bpJc)
 - [CSV](/data/Prompt%20Database%20-%20Tokens.csv)
 - [HTML](/data/Prompt%20Database.zip)
